@@ -8,8 +8,8 @@
 
 - 🧠 Currently, I am finishing my Bachelor's degree in Computer Science and Software Engineering at UQAM, and in my free time, I read *Artificial Intelligence By Example* by Denis Rothman.
 - 🚀 I'm interested in robotics, AI-powered systems, and developing solutions to improve healthcare through technology.
-- 📫 How to reach me: [Contact form](https://github.com/HypsterQc/Formulaire_contact).
-- 🌐 Check out my projects on [GitHub](https://github.com/HypsterQc) or connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-da-silva-a2b6836/).
+- 📫 How to reach me: [Contact form](https://github.com/Kevin-DaSilva/Formulaire_contact).
+- 🌐 Check out my projects on [GitHub](https://github.com/Kevin-DaSilva) or connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-da-silva-a2b6836/).
 
 <table>
   <tr>
@@ -60,20 +60,20 @@
   </tr>
 </table>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=HypsterQc&show_icons=true&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kevin-DaSilva&show_icons=true&theme=radical" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HypsterQc&layout=compact&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-DaSilva&layout=compact&theme=radical" />
 
 <br clear="both"/>
 
 ### 🌱 Recent Projects
 <!--
 <p align="center">
-  <a href="https://github.com/HypsterQc/bot_discord">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HypsterQc&repo=bot_discord&theme=radical&sort=updated" />
+  <a href="https://github.com/Kevin-DaSilva/bot_discord">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-DaSilva&repo=bot_discord&theme=radical&sort=updated" />
   </a>
-  <a href="https://github.com/HypsterQc/inf5081">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HypsterQc&repo=inf5081&theme=radical&sort=updated" />
+  <a href="https://github.com/Kevin-DaSilva/inf5081">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-DaSilva&repo=inf5081&theme=radical&sort=updated" />
   </a>
 </p>
 -->
