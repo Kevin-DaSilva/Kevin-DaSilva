@@ -2,83 +2,68 @@
   <a href="./README.md">Version française</a>
 </p>
 
-# 👋 Hello! I'm Kevin,
+# Kevin Da Silva
 
-### 💻 Junior Developer | Passionate about AI, automation, and health technology
+### Computer Science & Software Engineering Student
+### Interested in AI, software engineering, automation and health technology
 
-- 🧠 Currently, I am finishing my Bachelor's degree in Computer Science and Software Engineering at UQAM, and in my free time, I read *Artificial Intelligence By Example* by Denis Rothman.
-- 🚀 I'm interested in robotics, AI-powered systems, and developing solutions to improve healthcare through technology.
-- 📫 How to reach me: [Contact form](https://github.com/Kevin-DaSilva/Formulaire_contact).
-- 🌐 Check out my projects on [GitHub](https://github.com/Kevin-DaSilva) or connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-da-silva-a2b6836/).
+I build technical projects around artificial intelligence, systems programming, automation and research-oriented software.
 
-<table>
-  <tr>
-    <td>
-      <p align="left"><strong>📜 Languages:</strong></p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL-%2300648B.svg?style=for-the-badge&logo=sql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-      </p>
-    </td>
-    <td>
-      <p align="right"><strong>🧩 Frameworks:</strong></p>
-      <p align="right">
-        <img src="https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p align="left"><strong>🔧 Tools:</strong></p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white"/>
-        <img src="https://img.shields.io/badge/IntelliJ-IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-      </p>
-    </td>
-    <td>
-      <p align="left"><strong>📚 Recommended Books:</strong></p>
-      <p align="left">
-        - *Artificial Intelligence By Example* - Denis Rothman<br>
-        - *Clean Code* - Robert C. Martin<br>
-        <br>
-        📖 My list: <a href="https://www.goodreads.com/review/list/181500827?shelf=%23ALL%23" target="_blank">Goodreads</a>
-      </p>
-    </td>
-  </tr>
-</table>
+My GitHub is used as a technical archive.  
+For a clearer overview of my work, projects and background, visit my portfolio.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kevin-DaSilva&show_icons=true&theme=radical" />
+## Portfolio
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-DaSilva&layout=compact&theme=radical" />
+🌐 **Website:** https://Kevin-DaSilva.github.io  
+💼 **LinkedIn:** https://www.linkedin.com/in/kev-ds/
 
-<br clear="both"/>
+## Current Focus
 
-### 🌱 Recent Projects
-<!--
-<p align="center">
-  <a href="https://github.com/Kevin-DaSilva/bot_discord">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-DaSilva&repo=bot_discord&theme=radical&sort=updated" />
-  </a>
-  <a href="https://github.com/Kevin-DaSilva/inf5081">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-DaSilva&repo=inf5081&theme=radical&sort=updated" />
-  </a>
-</p>
--->
+- Artificial Intelligence
+- Bioinformatics / Health Technology
+- Systems Programming
+- Automation Tools
+- Research Projects
 
-Take a look at my projects! 👇
+## Featured Work
+
+| Area | Description |
+|---|---|
+| **Research** | AI and bioinformatics-oriented projects |
+| **Academic Projects** | Selected university projects from my B.Sc. |
+| **Labs** | Technical experiments in AI, Linux, systems and automation |
+| **Tools** | Practical scripts and utilities built to solve real problems |
+
+## Main Technologies
+
+**Languages:**
+  <p align="left"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </p>
+**Tools:**
+  <p align="left">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  </p>
+**Interests:** AI · Health Tech · Automation · Software Architecture
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kevin-DaSilva&show_icons=true&theme=default" />
+
+---
+
+Most of my projects are documented progressively as part of my academic, research and personal learning path.
 
 <p align="right">
   <a href="./README.md">Version française</a>
