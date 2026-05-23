@@ -65,7 +65,9 @@ Pour une vue plus claire de mes projets, compétences et réalisations, consulte
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
-**Intérêts :** IA · Santé numérique · Automatisation · Architecture logicielle
+### Intérêts :
+
+IA · Santé numérique · Automatisation · Architecture logicielle
 
 ---
 
