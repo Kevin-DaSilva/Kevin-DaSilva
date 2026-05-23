@@ -36,7 +36,7 @@ For a clearer overview of my work, projects and background, visit my portfolio.
 
 ## Main Technologies
 
-**Languages:**
+### Languages:
 
   <p align="left"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -48,7 +48,7 @@ For a clearer overview of my work, projects and background, visit my portfolio.
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </p>
   
-**Tools:**
+### Tools:
 
   <p align="left">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -58,7 +58,10 @@ For a clearer overview of my work, projects and background, visit my portfolio.
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   </p>
-**Interests:** AI · Health Tech · Automation · Software Architecture
+  
+### Interests:
+
+AI · Health Tech · Automation · Software Architecture
 
 ## GitHub Stats
 
